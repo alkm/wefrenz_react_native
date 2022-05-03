@@ -1,0 +1,1 @@
+DB=mongodb+srv://alkmohanty:hn4y6nas@cluster0-w9wdc.mongodb.net/wefrenz?retryWrites=true&w=majority
